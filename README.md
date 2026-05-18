@@ -1,16 +1,13 @@
 ```js
-import Desenvolvedor from "SeuNick";
+import Desenvolvedor from "vitors1natra";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "Victor";
+  area = "dev";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  linguagens = ["Java, PHP"];
+  frameworks = ["Spring Boot, Laravel"];
 }
 ```
