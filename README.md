@@ -23,4 +23,4 @@ Aqui estão algumas das tecnologias que eu utilizo(que estão em aprimoramento).
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,md)](https://skillicons.dev)
