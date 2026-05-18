@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Sou estudante. Tenho interesse em diversos tipos de desenvolvimento, sejam eles úteis ou inúteis.
+Sou estudante. Tenho interesse em diversos tipos de desenvolvimento, sejam eles úteis ou aleatórias.
 
 ### Habilidades Tecnológicas
 
