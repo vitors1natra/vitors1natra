@@ -8,9 +8,9 @@
 
 Sou estudante. Tenho interesse em diversos tipos de desenvolvimento, sejam eles úteis ou inúteis.
 
-## Habilidades Tecnológicas
+### Habilidades Tecnológicas
 
-Aqui estão algumas das tecnologias que eu utilizo:
+Aqui estão algumas das tecnologias que eu utilizo(que estão em aprimoramento).
 
 -  Linguagens de Programação: 
 
