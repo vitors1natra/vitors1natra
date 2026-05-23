@@ -2,25 +2,25 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# Olá, eu sou o Vitor
+# Hi, I'm Vitor.
 
-## Sobre mim
+## About me
 
-Sou estudante. Tenho interesse em diversos tipos de desenvolvimento, sejam eles úteis ou aleatórias.
+I am a student. I am interested in various types of development, whether practical or specific.
 
-### Habilidades Tecnológicas
+### Technological Skills
 
-Aqui estão algumas das tecnologias que eu utilizo(que estão em aprimoramento).
+Here are some of the technologies I use (some more than others, it depends).
 
--  Linguagens de Programação: 
+- Programming Languages:
 
     [![My Skills](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+- Frameworks and Libraries:
 
     [![My Skills](https://skillicons.dev/icons?i=spring,laravel)](https://skillicons.dev)
-- Dados: 
+- Data:
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+- Tools and Technologies: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,md)](https://skillicons.dev)
